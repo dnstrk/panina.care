@@ -1,0 +1,25 @@
+/*
+Theme Name: maumau
+Theme URI: 
+Description: Theme for project maumau
+Version: 2024.1
+Requires at least: 5.0
+Tested up to: 5.9
+Requires PHP: 8.1
+License: GNU General Public License v3 or Later
+License URI: https://www.gnu.org/licenses/gpl.html
+Text Domain: wptest.ru
+
+*/
+/* 
+@font-face{
+    font-family: 'TTFirsNeueRegular';
+    src: url('/fonts/TTFirsNeue-Regular.ttf') format("ttf");
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'TTFirsNeueMedium';
+    src: url('/fonts/TTFirsNeue-Medium.ttf') format("ttf");
+    font-weight: 500;
+}
+  */
